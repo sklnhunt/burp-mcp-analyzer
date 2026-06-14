@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "burp-analyzer": {
+      "command": "python3",
+      "args": [
+        "/path/to/burp-mcp-analyzer/burp_mcp_server.py"
+      ]
+    }
+  }
+}

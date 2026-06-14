@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "burp-analyzer": {
+      "command": "wsl.exe",
+      "args": [
+        "python3",
+        "/home/YOUR_USERNAME/burp-mcp-analyzer/burp_mcp_server.py"
+      ]
+    }
+  }
+}
