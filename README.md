@@ -2,7 +2,7 @@
 
 An **MCP (Model Context Protocol) server** that lets AI assistants analyze Burp Suite XML exports — offline, no Burp running required.
 
-Ask Claude (or any MCP-compatible AI) to map endpoints, find secrets, detect vulnerabilities, analyze headers, export curl commands, and generate pentest reports — all from a Burp XML export file.
+Ask AI (or any MCP-compatible AI) to map endpoints, find secrets, detect vulnerabilities, analyze headers, export curl commands, and generate pentest reports — all from a Burp XML export file.
 
 ---
 
